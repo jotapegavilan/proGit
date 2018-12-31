@@ -1,2 +1,3 @@
 # proGit
-Proyecto para empezar a utilizar git en nuestros proyectos
+Proyecto para empezar a utilizar git en nuestros proyectos 
+en login
